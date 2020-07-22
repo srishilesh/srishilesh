@@ -4,9 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/srishilesh)
 
-- 📝 I regulary write articles on [Medium](https://medium.com/@srishilesh)
+- 📝 I write articles on [Medium](https://medium.com/@srishilesh)
 
-- 💬 Ask me about **Deep learning**
+- 💬 Ask me about **Deep learning & Blockchain**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/srishilesh/)
 
